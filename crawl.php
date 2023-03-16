@@ -194,7 +194,11 @@ function followLinks($url) {
 
 }
 
-$startUrl = "https://pddikti.kemdikbud.go.id/";
-followLinks($startUrl);
+$site = "https://cse.google.com/cse?cx=016415709156547965879:2ypcpoot8sk";
+"https://www.google.com/";
+"https://educollabs.org/";
+"https://lldikti6.kemdikbud.go.id/";
+"https://pddikti.kemdikbud.go.id/";
+followLinks($site);
 
 ?>

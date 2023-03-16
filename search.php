@@ -30,7 +30,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstraps.css">
 	<link rel="stylesheet" href="assets/css/bootstrap-responsive.css">
 
-	<link rel="shortcut icon" href="assets/images/icons/favicon.png">
+	<link rel="shortcut icon" href="assets/ico/favicon.png">
 	<script type="text/javascript" src="assets/js/jquery.js"></script>
 	<style>
 		body {
@@ -66,7 +66,7 @@
 							<input type="hidden" name="type" value="<?php echo $type; ?>">
 							<input class="searchBox" type="text" name="term" value="<?php echo $term; ?>">
 							<button class="searchButton">
-								<img src="assets/images/icons/search.png" />
+								<img src="assets/ico/search.png" />
 							</button>
 						</div>
 
@@ -178,7 +178,8 @@
 		</div>
 
 	</div>
-
+	
+	<script async src="https://cse.google.com/cse.js?cx=016415709156547965879:2ypcpoot8sk"></script>
 	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 	<script type="text/javascript" src="assets/js/masonry.js"></script>
 	<script type="text/javascript" src="assets/js/script.js"></script>

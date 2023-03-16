@@ -4,7 +4,7 @@
 
 	try {
 
-		$con = new PDO("mysql:dbname=se;host=localhost", "root", "");
+		$con = new PDO("mysql:dbname=dev;host=localhost", "root", "");
 		$con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
 
 	}

@@ -7,7 +7,7 @@ class DomDocumentParser {
 	public function __construct($url) {
 
 		$options = array(
-			'http'=>array('method'=>"GET", 'header'=>"User-Agent: Sandtyco/0.1\n")
+			'http'=>array('method'=>"GET", 'header'=>"User-Agent: Mozilla/5.0 (AdsBot Google; Googlebot/2.1; +http://www.google.com/bot.html)")
 			);
 		$context = stream_context_create($options);
 
@@ -30,6 +30,10 @@ class DomDocumentParser {
 
 	public function getImages() {
 		return $this->doc->getElementsByTagName("img");
+	}
+	
+	public function getVideos() {
+		return $this->doc->getElementsByTagName("mp4");
 	}
 
 }

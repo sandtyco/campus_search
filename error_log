@@ -1,0 +1,4 @@
+[27-Jan-2023 20:47:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/educolla/dev.educollabs.org/s/addsites.php on line 3
+[27-Jan-2023 20:47:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/educolla/dev.educollabs.org/s/addsites.php on line 29
+[27-Jan-2023 20:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/educolla/dev.educollabs.org/s/addsites.php on line 3
+[27-Jan-2023 20:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/educolla/dev.educollabs.org/s/addsites.php on line 29

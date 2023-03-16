@@ -1,0 +1,17 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-posts-post-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-posts-post-2.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-posts-page-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-posts-elementor_library-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-posts-mec-events-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-taxonomies-category-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-taxonomies-post_tag-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-taxonomies-post_format-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-taxonomies-mec_category-1.xml
+Sitemap: https://lldikti6.kemdikbud.go.id/wp-sitemap-users-1.xml

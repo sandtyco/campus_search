@@ -99,13 +99,14 @@
         <div class="page-header">
 			<div class="nav">
 				<p align="justify" class="muted"><span>Crawl engine and information search for school campuses in Indonesia.
-				Add information with <a href="#" class="info">Suggest URL</a></span></p>
+				Add information with <a href="addurl.php" class="info">Suggest URL</a></span></p>
 			</div>
         </div>
-		<br><br><br><br><br><br><br><br>
+		<br><br><br><br><br><br>
 		<div class="text-center">
-			<a href="index.php"><img src="assets/images/logo.png" title="Educollabs" alt="site-logo" /></a>
-			
+			<h1><a href="index.php"><img src="assets/images/edu.png" title="Educollabs" alt="site-logo" />&nbsp;&nbsp;<img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0033.gif">&nbsp;&nbsp;<img src="assets/images/collabs.png" title="Educollabs" alt="site-logo" /></a></h1>
+			<script async src="https://cse.google.com/cse.js?cx=016415709156547965879:2ypcpoot8sk"></script>
+
 			<form class="form-signin" action="search.php" method="GET">
 				<input class="input-block-level" type="text" name="term" placeholder="search institution's here..."/>
 				<input class="btn btn-primary btn-large" type="submit" value="Search" />
